@@ -4,7 +4,7 @@
 
 
 ```
-## Sparsh Agarwal - 191IT
+## Sparsh Agarwal
 
 ```
 Dept. of Information Technology
