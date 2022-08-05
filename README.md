@@ -2,21 +2,7 @@
 
 # Attack and Anomaly Detection in IoT Sensors
 
-## Madhur Tatiya - 191IT
 
-```
-Dept. of Information Technology
-NITK Surathkal
-Mangaluru, India
-mowgli.191it227@nitk.edu.in
-```
-## Kiran Kumar J M - 191IT
-
-```
-Dept. of Information Technology
-NITK Surathkal
-Mangaluru, India
-kirankumarjm.191it126@nitk.edu.in
 ```
 ## Sparsh Agarwal - 191IT
 
